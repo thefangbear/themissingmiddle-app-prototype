@@ -1,4 +1,4 @@
-# The Missing Middle - App
+# The Missing Middle - Website
 
 
 > A quick prototype with [Twilio](https://www.twilio.com) and [Ionic](https://ionicframework.com)
